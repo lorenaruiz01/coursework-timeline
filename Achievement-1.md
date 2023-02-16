@@ -1,4 +1,4 @@
-# Achievement 1 - Introductions to Javascript
+# Achievement 1 - Introduction to Javascript
 
 ##### Duration Goal: 6 weeks
 ###### \*All dates in 2023
